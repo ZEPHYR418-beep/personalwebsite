@@ -1,0 +1,23 @@
+body{
+  font-family: sans-serif;
+  background-color: peachpuff;
+}
+
+h1{
+  text-align: center;
+  color: forestgreen;
+  margin: 30px 0 50px;
+}
+
+
+
+
+video{
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+  width: 100%;
+}
